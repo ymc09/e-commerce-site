@@ -1,0 +1,163 @@
+.checkout_item_details
+{
+    font-size: 1rem;
+}
+
+.checkout_header
+{
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.checkoutTitle
+{
+    font-size: 1.1rem;;
+}
+
+.header_details
+{
+    font-size: 1.25rem;
+    font-weight: bold;
+    color: #000;
+}
+
+.checkoutinputs
+{
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: white;
+    padding-left: 4%;
+}
+
+#contact
+{
+    height:40%;
+    width:60%;
+}
+
+#payment  
+{
+    height:40%;
+    width:60%;
+}
+#nameinput
+{
+    height:100%;
+    width:40%;
+}
+
+#addressinput
+{
+    height:35%;
+    width:100%;
+}
+
+#checkBox
+{
+    height:25%;
+    width:50%;
+    display:flex;
+    flex-direction:row;
+    align-items: center;
+    background-color: transparent;
+    color:#fff;
+}
+
+#checkButton
+{
+    height:60%;
+    width:100%;
+    background-color: #000;
+    color:#fff;
+    border: 2px solid transparent;
+    cursor:pointer;
+}
+
+#countries
+{
+    width:100%;
+    height:15%;
+}
+
+
+
+#contactsm
+{
+    height:30%;
+    width:100%;
+}
+
+#paymentsm
+{
+    height:30%;
+    width:100%;
+}
+#nameinputsm
+{
+    height:100%;
+    width:40%;
+}
+
+#addressinputsm
+{
+    height:40%;
+    width:100%;
+}
+
+#checkBoxsm
+{
+    height:15%;
+    width:100%;
+    display:flex;
+    flex-direction:row;
+    align-items: center;
+    background-color: transparent;
+    color:#fff;
+}
+
+#checkButtonsm
+{
+    height:40%;
+    width:100%;
+    background-color: #000;
+    color:#fff;
+    border: 2px solid transparent;
+}
+
+#countriessm
+{
+    width:100%;
+    height:15%;
+}
+
+
+
+
+
+
+.navlinkdrawer
+{
+    color: black;
+    font-size: 20px;
+    height: 10%;
+    width:100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding:auto;
+    font-family: "With My Woes";
+    text-decoration: none;
+    font-weight:600;
+    transition: opacity .25s ease-in-out;
+}
+
+.navlinkdrawer:hover,cursor
+{
+    opacity:0.6;
+    transition: opacity .25s ease-in-out;
+    -moz-transition: opacity .25s ease-in-out;
+    -webkit-transition: opacity .25s ease-in-out;
+    text-decoration: underline;
+
+}
